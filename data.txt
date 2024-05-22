@@ -1,8 +1,13 @@
 flajtojoqgllalgjoqgj
 1234fjalsfooafo
 111
+哈哈哈哈哈
 33
 56565
 32534
 fljaljg
+<<<<<<< HEAD
 你还好吗？
+=======
+我是中国人！
+>>>>>>> 3e997fc454296c047330411d537c5ab7552c52af
